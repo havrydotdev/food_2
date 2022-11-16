@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/gavrylenkoIvan/food_2#readme",
   "devDependencies": {
-    "json-server": "^0.17.1"
+    "json-server": "^0.17.1",
+    "webpack-cli": "^4.10.0"
   }
 }
